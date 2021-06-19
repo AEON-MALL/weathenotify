@@ -3,7 +3,7 @@
 wearthrnotifyが何かを簡潔に紹介する
  
 # DEMO
-
+![sample_img](sample_img.png)
 
 # Features
  
