@@ -1,4 +1,4 @@
 pip json
 pip sys
-pip urllib.parse
-pip urllib.request 
+pip urllib
+ 
